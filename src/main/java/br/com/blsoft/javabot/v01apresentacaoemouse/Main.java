@@ -1,4 +1,4 @@
-package v01apresentacaoemouse;
+package br.com.blsoft.javabot.v01apresentacaoemouse;
 
 import java.awt.Robot;
 import java.awt.event.InputEvent;

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package v03printscreen;
+package br.com.blsoft.javabot.v03printscreen;
 
 import java.awt.AWTException;
 import java.awt.Dimension;

@@ -1,4 +1,4 @@
-package v02teclado;
+package br.com.blsoft.javabot.v02teclado;
 
 import java.awt.Robot;
 
